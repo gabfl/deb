@@ -13,7 +13,7 @@ wget -O - http://deb.gab.lc/keyFile | sudo apt-key add -
 
 # Install a package
 apt update
-apt install redis-server
+apt install ardb-server # or another package
 ```
 
 ## Build package index
