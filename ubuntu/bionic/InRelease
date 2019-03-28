@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Date: Thu, 28 Mar 2019 11:51:20 +0000
+MD5Sum:
+ a4ecc074dcb94c941b8a879f7f79e6cd             1869 Packages
+ 88b0c15493495c774fcd9207be7d8a64              926 Packages.gz
+ 0bf8769c298e244ea888cab286b06591               38 Release
+SHA1:
+ f7240afe08336da83b3fa57d555ba9186a27aff6             1869 Packages
+ 3cf5ee208c29fd45a83d5df80d9f7de1199485be              926 Packages.gz
+ 71ea5843799fdeb9da3fb975950187218a8c2f87               38 Release
+SHA256:
+ 2674fc6a4efaad856b9de1a546bc0c321f7a8c6adfc91abaa3ec137d3252bbea             1869 Packages
+ edd69824377436594c04951d225b03fffc30ccd261a7f2abff9b3823ae29cc21              926 Packages.gz
+ 42bd9f67c3e1e348ea1ee53ab12dbd5954907b39714396d9d9326ae655ca3dae               38 Release
+SHA512:
+ 20bee1d950c20a299d4bce49ced9269be9fa1ac4d7d0e223697748756d55fd2c93f54d36d951dce312c6984c8db6760667cd30305068909362293315dbb12411             1869 Packages
+ d1909e18da3b42b4ef4edf8eeb08196c1f1ae94038d88e5107fed311d86a201a8f4b517b5e1e8c87132bc7cf1b0d2f48e95779e40b27b162919541383854f91a              926 Packages.gz
+ 25e1400efead00f5e99823ceb2305b847e6ef71c5189067364242c064f523568afa6f339117608b58fe0bbc5b82f3e9435203358b29b52b739b74c19a9fe41a8               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEHRcO7EbPfRQqfGVT7QmbMcb6+6oFAlyctUIACgkQ7QmbMcb6
++6obkwf/ZRwYyAijwa2vAugEhMUXc5JupJ+dbAexVvuRmYNZhurKukZTntJdUFgM
+rxMVcDW8uD/SmTrfa+1vzY/v8SV4ffJTpfCB7kYLEgShw/WhqYa4au3al8C1CTSS
+QATJPjUXJ6L70fjAe1nB7Q6TUrC0OauDwVkhvvePDaztopxqbxaFifIbU8APXs3U
+60cJwZU+26idyZbrzzuufT4HAn33Rin19Cj8siAE5XyShYoRjhcNpmihTmyQXNvM
+XPLEFSn9OIBad83k3bG4FxxHTB5CfELzz7qfaRbe7vIpN4v1jz1kiE1JmaXRWSqJ
+0KAszIfF8LzuPLBZUuFRsHiUf3kzPQ==
+=e2Su
+-----END PGP SIGNATURE-----
