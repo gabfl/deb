@@ -15,9 +15,3 @@ wget -O - http://deb.gab.lc/keyFile | sudo apt-key add -
 apt update
 apt install ardb-server # or another package
 ```
-
-## Build package index
-
-```
-./build_index.sh
-```
