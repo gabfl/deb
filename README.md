@@ -4,7 +4,17 @@ Debian/Ubuntu repo
 
 ## Repository usage
 
-tbd
+```
+# Add source
+add-apt-repository 'deb http://deb.gab.lc /'
+
+# Add GPG key
+wget -O - http://deb.gab.lc/keyFile | sudo apt-key add -
+
+# Install a package
+apt update
+apt install redis-server
+```
 
 ## Build package index
 
